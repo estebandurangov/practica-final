@@ -1,0 +1,16 @@
+body {
+    margin: auto;
+    background:url("../img/fondo.jpg") no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    background-color: #FFF;
+}
+.formulario {
+    margin: 10px 0 10px; 
+    background: #222;  
+    box-shadow: 5px 5px 5px #999; 
+    border-radius: 5px;
+}
